@@ -17,3 +17,15 @@ img{
 .title{
   text-align: center;
 }
+
+#before{
+  background-color: darkred;
+}
+
+#during{
+  background-color: darkblue;
+}
+
+#after{
+  background-color: papayawhip;
+}
